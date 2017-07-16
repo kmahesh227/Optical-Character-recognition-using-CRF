@@ -1,0 +1,7 @@
+Training time: 24.5479998589
+testing time=0.365999937057
+letter-wise accuracy=96%
+word-wise accuracy=77%
+testing time=0.121000051498
+letter-wise accuracy=66%
+word-wise accuracy=5%
